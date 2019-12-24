@@ -1,4 +1,4 @@
-<--> ©️copyright 2019 by Veer Singh <-->
+
 
 > For All Variables in  the path: \cb.py:
     r : Root Window
