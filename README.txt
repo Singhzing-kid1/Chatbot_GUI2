@@ -12,7 +12,7 @@
     re : Request
     res : Response
 
-> For All Var iables in the path: \style\v.py
+> For All Variables in the path: \style\v.py
     title : Meaning N/A
     be_x : Bot Entry X
     be_y : Bot Entry Y 
