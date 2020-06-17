@@ -1,6 +1,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/Singhzing-kid1/Chatbot_GUI2)](https://repl.it/github/Singhzing-kid1/Chatbot_GUI2)
 
 > For All Variables in  the path: \cb.py:
+    
     r : Root Window
     t : True
     ue : User Entry
@@ -13,6 +14,7 @@
     res : Response
 
 > For All Variables in the path: \style\v.py
+    
     title : Meaning N/A
     be_x : Bot Entry X
     be_y : Bot Entry Y 
