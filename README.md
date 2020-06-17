@@ -39,6 +39,6 @@ Respective Paths:
 > To Change The Favicon, Have A Square Image And Turn It Into A .ico Format Using An Online 
 Converter Like 'https://favicon.io'
 > To Change The Theme Go To: 'https://ttkthemes.readthedocs.io/en/docs/themes.html' And Change
-The Theme Name On Line: 56.
+The Theme Name On Line: 56 of cb.py.
 > To Change Responses, Go To The File In The Path: \context_lib. You Can Add More For A Better
 Experiance.
